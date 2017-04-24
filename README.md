@@ -35,3 +35,45 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+`SDK最初的token报文内容：`
+```json
+    "token": {
+        "appKey": "TESTIN_xxxxx",
+        "userId": 0,
+        "state": "NEW",
+        "threshold": 100,
+        "hashCode": 3,
+        "timeout": 1491013806000,
+        "isGray": false,
+        "isOnce": false,
+        "isDebug": false,
+        "timestamp": 1491013806000,
+        "surviveAge": 3,
+        "minExpTime": {}
+    }
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
